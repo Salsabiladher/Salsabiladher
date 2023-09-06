@@ -9,20 +9,20 @@
 
 ## Education:
 
-#### 1. [Universitas Udayana](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2018-2023`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+#### 1. [Universitas Udayana](https://www.unud.ac.id) | Bachelor of Electrical Engineering | Jimbaran,Bali `2018-2023`
+   - Head Of Content Creative IEEE Student Branch Udayana University
+   - Head Division Publication and Documentation of IEEE SB UNUD 
+   - Member of Human Resource Division
 
 ## Relevant Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
+#### 1. [FGA Binary Academy](https://www.binaracademy.com) | Data Science Student | (Remote) Bali `Apr'2023 - `Mei'2023
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 2. [Merdeka Belajar(MSIB)](https://portal.pln.co.id) | Study Independent Data and AI | (Remote) Bali `2019-2019`
+   - Learn fundamentals about Data and Artificial Intelligence.
+   - Learn how to use and analyze data using Microsoft Azure Fundamentals & Microsoft Power BI.
+   - Make a Capstone Project about analyzing data using Microsoft Azure & Power BI
 ---
 
 ### Languages and Tools:
