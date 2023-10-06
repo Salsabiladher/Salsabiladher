@@ -16,9 +16,7 @@
 
 ## Relevant Experience:
 #### 1. [FGA Binary Academy](https://www.binaracademy.com) | Data Science Student | (Remote) Bali `Apr'2023 - `Mei'2023
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+   
 #### 2. [Merdeka Belajar(MSIB)](https://portal.pln.co.id) | Study Independent Data and AI | (Remote) Bali `2019-2019`
    - Learn fundamentals about Data and Artificial Intelligence.
    - Learn how to use and analyze data using Microsoft Azure Fundamentals & Microsoft Power BI.
