@@ -1,8 +1,8 @@
 # Hallo Hi!, I'm Salsabila - aka [Salsabiladher] 👋
 ## About me:
 - 🔭 I’m currently looking for work as Data Analyst
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst and Web Developer
+- 🌱 I’m currently learning Python and SQL
+- 👯 I’m looking to collaborate as Data Analyst 
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: salsabiladindah31@gmail.com
